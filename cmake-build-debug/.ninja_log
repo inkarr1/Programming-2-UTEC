@@ -1,0 +1,8 @@
+# ninja log v5
+34	4581	7339441848488416	CMakeFiles/Programming_2.dir/S1/example_0.cpp.obj	5cf4f6f188530788
+4	605	7339486879153408	CMakeFiles/Programming_2.dir/S1/example1.3.cpp.obj	fc387bfd41fae0ce
+606	709	7339486880153422	Programming_2.exe	5c97e7cd543f88ea
+20	4588	7339441848548356	CMakeFiles/Programming_2.dir/S1/example_01.cpp.obj	cf653058616c5ca4
+3	516	7339459108846472	CMakeFiles/Programming_2.dir/S1/example_1.1.cpp.obj	dc343df7f21a321d
+1	282	7339512220033422	build.ninja	d3c3cf0203478716
+4	483	7339476936432432	CMakeFiles/Programming_2.dir/S1/example1.2.cpp.obj	bee9e6db3d106402
