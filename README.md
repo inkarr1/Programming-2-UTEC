@@ -34,3 +34,60 @@ puntos tienen las coordenadas (x1,y1) y (y1,y2); y la distancia
 está dada por la fórmula:
 ![img.png](Assets/img.png)
 ![img_1.png](Assets/img_1.png)
+
+## Control Structure Exercises
+### Exercise 2
+Realice un programa que permita leer un número entero de al menos 3 dígitos,
+dato que se debe validar, luego el programa indicará:
+- La cantidad total de dígitos
+- La cantidad de dígitos pares 
+- La cantidad de dígitos impares
+
+```
+Execution
+
+Numero: 34
+Numero: 4
+Numero: 345678325
+
+Numero digitos: 9
+Digitos pares: 4
+Digitos impares: 5
+```
+
+Nota: Falta consultar más de una vez.
+
+### Exercise 3
+El valor de PI puede ser aproximadamente la siguiente serie infinita:
+
+![img.png](Assets/img.png)
+
+Escribir un programa que muestre 60 aproximaciones de PI. La primera 
+aproximación debe de usar solo el primer término de la serie infinita
+cada aproximación debe incluir un nuevo término.
+Observando la lista de aproximaciones podría deducir en qué aproximación
+se estabiliza el valor de PI.
+
+### Exercise 4
+Cada cuadrado de un tablero de ajedrez puede ser descrito por una combinación 
+de una letra un número. Por ejemplo: G5
+
+El siguiente pseudocódigo describe el algoritmo para determinar si un cuadrado 
+del tablero de ajedrez es de color blanco o negro, si se da como dato una letra 
+y un número.
+
+````
+if la letra es A, C, E o G
+    if el numero  es impar 
+        color = "negro"
+    else 
+        color = "blanco"
+else
+    if el numero es par
+        color = "negro"
+    else
+        color = "blanco"
+````
+
+Desarrolle un programa en C++ en que lea las coordenadas y el programa indique si 
+corresponde a un cuadrado negro o blanco.
