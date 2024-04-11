@@ -91,3 +91,13 @@ else
 
 Desarrolle un programa en C++ en que lea las coordenadas y el programa indique si 
 corresponde a un cuadrado negro o blanco.
+
+
+### Exercise
+Cada denominación monetaria del dólar tiene asociado un personaje con algún tipo 
+de relevancia histórica, usualmente presidentes y héroes. Aunque existen 
+denominaciones de 500, 1000, 5000 y 10,000 para uso público estas denominaciones 
+han sido descontinuadas en 1969. En la tabla se muestra la lista vigente.
+Desarrolle un programa que lea la denominación y que muestre el nombre del personaje, 
+en el caso de los billetes de 500, 1000, 5000 y 10000 deberá mostrarse el mensaje 
+“Denominación descontinuada” en otros valores deberá mostrar “No existe esa denominación”.

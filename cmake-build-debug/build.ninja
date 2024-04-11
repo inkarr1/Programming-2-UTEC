@@ -49,14 +49,8 @@ cmake_ninja_workdir = C$:/Users/ALEJANDRO/Documents/Universidad/Programming-2/cm
 
 build cmake_object_order_depends_target_Programming_2: phony || CMakeFiles/Programming_2.dir
 
-build CMakeFiles/Programming_2.dir/U2/Example2_3.cpp.obj: CXX_COMPILER__Programming_2_unscanned_Debug C$:/Users/ALEJANDRO/Documents/Universidad/Programming-2/U2/Example2_3.cpp || cmake_object_order_depends_target_Programming_2
-  DEP_FILE = CMakeFiles\Programming_2.dir\U2\Example2_3.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Programming_2.dir
-  OBJECT_FILE_DIR = CMakeFiles\Programming_2.dir\U2
-
-build CMakeFiles/Programming_2.dir/U2/example2_4.cpp.obj: CXX_COMPILER__Programming_2_unscanned_Debug C$:/Users/ALEJANDRO/Documents/Universidad/Programming-2/U2/example2_4.cpp || cmake_object_order_depends_target_Programming_2
-  DEP_FILE = CMakeFiles\Programming_2.dir\U2\example2_4.cpp.obj.d
+build CMakeFiles/Programming_2.dir/U2/example2.2_3.cpp.obj: CXX_COMPILER__Programming_2_unscanned_Debug C$:/Users/ALEJANDRO/Documents/Universidad/Programming-2/U2/example2.2_3.cpp || cmake_object_order_depends_target_Programming_2
+  DEP_FILE = CMakeFiles\Programming_2.dir\U2\example2.2_3.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Programming_2.dir
   OBJECT_FILE_DIR = CMakeFiles\Programming_2.dir\U2
@@ -69,7 +63,7 @@ build CMakeFiles/Programming_2.dir/U2/example2_4.cpp.obj: CXX_COMPILER__Programm
 #############################################
 # Link the executable Programming_2.exe
 
-build Programming_2.exe: CXX_EXECUTABLE_LINKER__Programming_2_Debug CMakeFiles/Programming_2.dir/U2/Example2_3.cpp.obj CMakeFiles/Programming_2.dir/U2/example2_4.cpp.obj
+build Programming_2.exe: CXX_EXECUTABLE_LINKER__Programming_2_Debug CMakeFiles/Programming_2.dir/U2/example2.2_3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Programming_2.dir
