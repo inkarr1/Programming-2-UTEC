@@ -1,4 +1,18 @@
-# Programming-2-UTEC
+# Programming 2 - UTEC
+## Estructuras de control
+### Selectivas
+##### Exercise 1
+Desarrollar un código que lea dos números enteros, identifique si el numero ingresado es par o impar y divida el primero entre el segundo.
+Si el número es cero debe señalar que el cociente no está definido
+
+#### Exercise 2
+Escribir un programa que permita leer un número entero que podría tener los valores 1, 2, 3 ó 4, e imprima la estación de año que le corresponda según la tabla :
+
+1  Otoño
+2  Invierno
+3  Primavera
+4  Verano
+Ahora cambie los enteros por char, con las opciones ‘p’, ‘v’, ‘o’, ‘i’
 
 ## Exercises
 ### Example 3
